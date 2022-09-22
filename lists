@@ -1,0 +1,16 @@
+anime = ["Bleach", "Naruto", "Durarara"]
+  print(anime[1])
+anime = ["Bleach", "Naruto", "Durarara"]
+anime[0] = "FLCL"
+anime = ["Bleach", "Naurto", "Durarara"]
+anime.appeand("FLCL")
+anime = ["Bleach", "Naruto", "Durarara"]
+anime.insert(1, "FLCL")
+anime = ["Bleach", "Naruto", "Durarara"]
+anime.remove("Naruto")
+anime = ["Bleach", "Naruto", "Durarara"]
+print(anime[-1])
+anime = ["Bleach", "Naruto", "Berserk", "Durarara", "PsychoPass", "Souler Eater", "Black Butler"]
+print(anime[2:5])
+anime = ["Bleach", "Naruto", "Durarara"]
+  print(len(fruits))
