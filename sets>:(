@@ -1,0 +1,12 @@
+villians = {"Joker", "Grindelwald", "Izen"}
+if "apple" in fruits:
+  print("Yes, Joker is a villian")
+villians = {"Joker", "Grindelwald", "Izen"}
+villians.add("Darth Mal")
+villians = {"Joker", "Grindelwald", "Izen"}
+more_villians = ["Darth Vader", "All-for-One", "Khan"]
+villian.update(more_villians)
+villians = {"Joker", "Grindelwald", "Izen"}
+villians.remove("Grindelwald")
+villians = {"Joker", "Grindelwald", "Izen"}
+villians.discard("Grindelwald")
