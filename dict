@@ -1,0 +1,30 @@
+inuyasha = {
+"genre": "romance",
+"rating": "teen"
+"year": 1996
+}
+  print(inuyasha.get("rating"))
+inuyasha = {
+"genre": "romance",
+"rating": "teen"
+"year": 1997
+}
+inuyasha["year"] = 1996
+inuyasha = {
+"genre": "romance",
+"rating": "teen"
+"year": 1996
+}
+inuyasha["finished"] = "yes"
+inuyasha = {
+"genre": "romance",
+"rating": "teen"
+"year": 1996
+}
+inuyasha.pop("rating")
+inuyasha = {
+"genre": "romance",
+"rating": "teen"
+"year": 1996
+}
+inuyasha.clear()
