@@ -1,0 +1,8 @@
+heroes = ("Deku", "All Might", "Lamillion")
+  print(heros[0])
+heroes = ("Deku", "All Might", "Lamillion")
+  print(len(heroes))
+heroes = ("Deku", "All Might", "Lamillion")
+  print(heroes[-1])
+heroes = ("Deku", "Bakugo", "All Might", "Lamillion", "Uravity", "Eraser", "Gang Orca")
+  print(heroes[2:5])
