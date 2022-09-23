@@ -1,0 +1,15 @@
+anime = ["GANTZ:0", "Goblin Slayer", "Fruits Baskets"]
+for x in anime:
+  print(x)
+anime = ["GANTZ:0", "Goblin Slayer", "Fruits Baskets"]
+for x in anime:
+ if x == "Goblin Slayer":
+   continue
+ print(anime)
+ for x in range(6):
+   print(x)
+ anime = ["GANTZ:0", "Goblin Slayer", "Fruits Baskets"]
+for x in anime:
+  if x == "Goblin Slayer":
+    break
+  print(x)
